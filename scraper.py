@@ -7,8 +7,8 @@ url = 'http://uhaul.com'
 s = requests.session()
 
 start = s.get(url)
-cookies = start_html.cookies
-print cookies
+#cookies = start_html.cookies
+#print cookies
 root = lxml.html.fromstring(start.text)
 
 #post values:
