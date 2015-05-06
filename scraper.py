@@ -71,7 +71,7 @@ headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:15.0) G
 
 response = s.post('http://uhaul.com/',data=payload,headers=headers)
 
-response = response.encode('utf-8')
+#response = response.encode('utf-8')
 
 print response.text
 print response.headers
