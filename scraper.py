@@ -79,7 +79,7 @@ print response.headers
 print response.request.headers
 print response.history
 #print response.history[0].cookies
-print response.history[1].cookies
+#print response.history[1].cookies
 
 
 
