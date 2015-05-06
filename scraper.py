@@ -71,10 +71,10 @@ response = s.post('http://uhaul.com/',data=payload,headers=headers)
 
 print response.text
 print response.headers
-print response.cookies
+#print response.cookies
 print response.request.headers
 print response.history
-print response.history[0].cookies
+#print response.history[0].cookies
 print response.history[1].cookies
 
 
