@@ -73,7 +73,7 @@ response = s.post('http://uhaul.com/',data=payload,headers=headers)
 
 #response = response.encode('utf-8')
 
-print response.text.encode('utf-8').strip()
+##print response.text.encode('utf-8').strip()
 print response.headers
 #print response.cookies
 print response.request.headers
