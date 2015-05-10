@@ -81,7 +81,7 @@ html_doc = response.text.encode('utf-8').strip()
 ##print html_doc
 soup = BeautifulSoup(html_doc)
 print soup.title.string
-print(soup.get_text())
+print(soup.get_text().encode('utf-8').strip())
 ##print response.headers
 #print response.cookies
 ##print response.request.headers
