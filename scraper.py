@@ -82,7 +82,9 @@ html_doc = response.text.encode('utf-8').strip()
 soup = BeautifulSoup(html_doc)
 print soup.title.string
 spans = soup.find_all('span', {'class' : 'ctl00_ContentPlaceHolder1_rptTrucks_ctl00_lblDisplayRate'})
-print(spans)
+lines = [span.get_text() for span in spans]
+for line in lines:
+    print(line)
 ##print response.headers
 #print response.cookies
 ##print response.request.headers
