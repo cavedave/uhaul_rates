@@ -81,7 +81,7 @@ html_doc = response.text.encode('utf-8').strip()
 ##print html_doc
 soup = BeautifulSoup(html_doc)
 print soup.title.string
-spans = soup.find_all('span', {'class' : 'ctl00_ContentPlaceHolder1_rptTrucks_ctl00_lblDisplayRate'})
+spans = soup.find_all('span', {'class' : 'price'})
 lines = [span.get_text() for span in spans]
 for line in lines:
     print(line)
