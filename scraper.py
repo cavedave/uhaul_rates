@@ -3,6 +3,8 @@
 import scraperwiki
 import requests
 import lxml.html
+from bs4 import BeautifulSoup
+
 
 url = 'http://uhaul.com'
 
@@ -73,7 +75,12 @@ response = s.post('http://uhaul.com/',data=payload,headers=headers)
 
 #response = response.encode('utf-8')
 
-print response.text.encode('utf-8').strip()
+
+html_doc = response.text.encode('utf-8').strip()
+
+##print html_doc
+soup = BeautifulSoup(html_doc)
+print soup.title.string
 ##print response.headers
 #print response.cookies
 ##print response.request.headers
