@@ -86,7 +86,7 @@ spans = soup.find_all('span', {'class' : 'price'})
 lines = [span.get_text() for span in spans]
 for line in lines:
    ## print(line).rstrip()+ "\t"
-    print(line).rstrip()+ "\t"
+    print(line)
 
 print"\n"
 ##print response.headers
