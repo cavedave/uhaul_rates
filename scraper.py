@@ -22,7 +22,7 @@ EVENTTARGET = ''
 EVENTARGUMENT = ''
 departure = 'New York, NY'
 destination = 'Dallas, TX'
-date = '08/26/2015'
+date = '06/13/2015'
 submit = 'Get rates'
 zip = 'Zip/postal code'
 js = '1'
@@ -80,13 +80,13 @@ html_doc = response.text.encode('utf-8').strip()
 
 ##print html_doc
 soup = BeautifulSoup(html_doc)
-##print soup.title.string.rstrip()
-print soup.title.string.rstrip()+ "\t"
+print soup.title.string.rstrip()
+##print soup.title.string.rstrip()+ "\t"
 spans = soup.find_all('span', {'class' : 'price'})
 lines = [span.get_text() for span in spans]
 for line in lines:
-   print(line).rstrip()+ "\t"
-    ##print(line)
+   ##print(line).rstrip()+ "\t"
+    print(line)
 
 print "\n"
 ##print response.headers
