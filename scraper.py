@@ -80,11 +80,13 @@ html_doc = response.text.encode('utf-8').strip()
 
 ##print html_doc
 soup = BeautifulSoup(html_doc)
-print soup.title.string
+print soup.title.string.rstrip()+ "\t"
 spans = soup.find_all('span', {'class' : 'price'})
 lines = [span.get_text() for span in spans]
 for line in lines:
-    print(line)
+    print(line).rstrip()+ "\t"
+
+print"\n"
 ##print response.headers
 #print response.cookies
 ##print response.request.headers
