@@ -1,0 +1,1124 @@
+source	Destination	Price	total cost
+Washington, DC	Portland, OR	2981	
+Washington, DC	Seattle, WA	2915	
+Washington, DC	Denver, CO	1960	
+Washington, DC	San Jose, CA	1833	
+Washington, DC	San Francisco, CA	1787	
+Washington, DC	Fresno, CA	1781	
+Washington, DC	San Diego, CA	1736	
+Washington, DC	Los Angeles, CA	1724	
+Washington, DC	Las Vegas, NV	1625	
+Washington, DC	Tucson, AZ	1548	
+Washington, DC	Phoenix, AZ	1538	
+Washington, DC	El Paso, TX	1406	
+Washington, DC	Albuquerque, NM	1364	
+Washington, DC	Jacksonville, FL	1234	
+Washington, DC	San Antonio, TX	1099	
+Washington, DC	Austin, TX	1063	
+Washington, DC	Memphis, TN	1029	
+Washington, DC	Houston, TX	1009	
+Washington, DC	Fort Worth, TX	986	
+Washington, DC	Dallas, TX	971	
+Washington, DC	Oklahoma City, OK	962	
+Washington, DC	Nashville, TN	848	
+Washington, DC	Louisville, KY	625	
+Washington, DC	Indianapolis, IN	615	
+Washington, DC	Charlotte, NC	576	
+Washington, DC	Detroit, MI	572	
+Washington, DC	Milwaukee, WI	549	
+Washington, DC	Columbus, OH	437	
+Washington, DC	Boston, MA	370	
+Washington, DC	Chicago, IL	326	
+Washington, DC	New York, NY	219	
+Washington, DC	Philadelphia, PA	139	
+Washington, DC	Baltimore, MD	74	37901
+Tucson, AZ	Seattle, WA	1554	
+Tucson, AZ	Boston, MA	1495	
+Tucson, AZ	Portland, OR	1494	
+Tucson, AZ	New York, NY	1403	
+Tucson, AZ	Philadelphia, PA	1382	
+Tucson, AZ	Detroit, MI	1376	
+Tucson, AZ	Columbus, OH	1362	
+Tucson, AZ	Baltimore, MD	1334	
+Tucson, AZ	Washington, DC	1319	
+Tucson, AZ	Louisville, KY	1291	
+Tucson, AZ	Milwaukee, WI	1254	
+Tucson, AZ	Indianapolis, IN	1248	
+Tucson, AZ	Chicago, IL	1221	
+Tucson, AZ	Nashville, TN	1208	
+Tucson, AZ	Charlotte, NC	1198	
+Tucson, AZ	Jacksonville, FL	1180	
+Tucson, AZ	Memphis, TN	1091	
+Tucson, AZ	Houston, TX	860	
+Tucson, AZ	Oklahoma City, OK	822	
+Tucson, AZ	Dallas, TX	804	
+Tucson, AZ	Fort Worth, TX	789	
+Tucson, AZ	Austin, TX	776	
+Tucson, AZ	San Antonio, TX	764	
+Tucson, AZ	Denver, CO	751	
+Tucson, AZ	San Francisco, CA	482	
+Tucson, AZ	San Jose, CA	468	
+Tucson, AZ	Fresno, CA	418	
+Tucson, AZ	Las Vegas, NV	365	
+Tucson, AZ	Los Angeles, CA	344	
+Tucson, AZ	Albuquerque, NM	327	
+Tucson, AZ	San Diego, CA	304	
+Tucson, AZ	El Paso, TX	252	
+Tucson, AZ	Phoenix, AZ	111	31047
+Seattle, WA	Boston, MA	1141	
+Seattle, WA	Jacksonville, FL	1135	
+Seattle, WA	New York, NY	1085	
+Seattle, WA	Charlotte, NC	1084	
+Seattle, WA	Philadelphia, PA	1077	
+Seattle, WA	Baltimore, MD	1061	
+Seattle, WA	Washington, DC	1060	
+Seattle, WA	El Paso, TX	1011	
+Seattle, WA	Columbus, OH	971	
+Seattle, WA	Nashville, TN	971	
+Seattle, WA	Louisville, KY	954	
+Seattle, WA	Detroit, MI	944	
+Seattle, WA	Memphis, TN	942	
+Seattle, WA	Tucson, AZ	940	
+Seattle, WA	Indianapolis, IN	923	
+Seattle, WA	Albuquerque, NM	901	
+Seattle, WA	Phoenix, AZ	889	
+Seattle, WA	Chicago, IL	866	
+Seattle, WA	Oklahoma City, OK	855	
+Seattle, WA	Milwaukee, WI	846	
+Seattle, WA	Austin, TX	774	
+Seattle, WA	Las Vegas, NV	770	
+Seattle, WA	Houston, TX	760	
+Seattle, WA	Denver, CO	751	
+Seattle, WA	Fort Worth, TX	732	
+Seattle, WA	San Antonio, TX	725	
+Seattle, WA	Fresno, CA	710	
+Seattle, WA	Dallas, TX	708	
+Seattle, WA	San Diego, CA	697	
+Seattle, WA	Los Angeles, CA	658	
+Seattle, WA	San Jose, CA	651	
+Seattle, WA	San Francisco, CA	630	
+Seattle, WA	Portland, OR	199	28421
+San Jose, CA	Washington, DC	4237	
+San Jose, CA	Baltimore, MD	4181	
+San Jose, CA	Boston, MA	1911	
+San Jose, CA	Houston, TX	1828	
+San Jose, CA	New York, NY	1815	
+San Jose, CA	Seattle, WA	1802	
+San Jose, CA	Philadelphia, PA	1786	
+San Jose, CA	Austin, TX	1749	
+San Jose, CA	Jacksonville, FL	1716	
+San Jose, CA	San Antonio, TX	1706	
+San Jose, CA	Dallas, TX	1702	
+San Jose, CA	Columbus, OH	1698	
+San Jose, CA	Fort Worth, TX	1690	
+San Jose, CA	Portland, OR	1689	
+San Jose, CA	Charlotte, NC	1685	
+San Jose, CA	Louisville, KY	1646	
+San Jose, CA	Denver, CO	1596	
+San Jose, CA	Nashville, TN	1591	
+San Jose, CA	Detroit, MI	1574	
+San Jose, CA	Milwaukee, WI	1564	
+San Jose, CA	Chicago, IL	1540	
+San Jose, CA	Indianapolis, IN	1522	
+San Jose, CA	Memphis, TN	1491	
+San Jose, CA	El Paso, TX	1463	
+San Jose, CA	Albuquerque, NM	1388	
+San Jose, CA	Oklahoma City, OK	1186	
+San Jose, CA	Tucson, AZ	1034	
+San Jose, CA	Phoenix, AZ	931	
+San Jose, CA	Las Vegas, NV	769	
+San Jose, CA	San Diego, CA	450	
+San Jose, CA	Los Angeles, CA	360	
+San Jose, CA	Fresno, CA	222	
+San Jose, CA	San Francisco, CA	101	51623
+San Francisco, CA	Baltimore, MD	4188	
+San Francisco, CA	Washington, DC	4132	
+San Francisco, CA	Boston, MA	1914	
+San Francisco, CA	Houston, TX	1852	
+San Francisco, CA	New York, NY	1818	
+San Francisco, CA	Philadelphia, PA	1788	
+San Francisco, CA	Austin, TX	1773	
+San Francisco, CA	Charlotte, NC	1766	
+San Francisco, CA	Seattle, WA	1745	
+San Francisco, CA	Jacksonville, FL	1734	
+San Francisco, CA	San Antonio, TX	1731	
+San Francisco, CA	Dallas, TX	1731	
+San Francisco, CA	Fort Worth, TX	1716	
+San Francisco, CA	Columbus, OH	1702	
+San Francisco, CA	Nashville, TN	1658	
+San Francisco, CA	Portland, OR	1641	
+San Francisco, CA	Louisville, KY	1635	
+San Francisco, CA	Denver, CO	1585	
+San Francisco, CA	Detroit, MI	1577	
+San Francisco, CA	Milwaukee, WI	1567	
+San Francisco, CA	Chicago, IL	1547	
+San Francisco, CA	Indianapolis, IN	1525	
+San Francisco, CA	Memphis, TN	1510	
+San Francisco, CA	El Paso, TX	1494	
+San Francisco, CA	Albuquerque, NM	1420	
+San Francisco, CA	Oklahoma City, OK	1207	
+San Francisco, CA	Tucson, AZ	1066	
+San Francisco, CA	Phoenix, AZ	968	
+San Francisco, CA	Las Vegas, NV	806	
+San Francisco, CA	San Diego, CA	477	
+San Francisco, CA	Los Angeles, CA	391	
+San Francisco, CA	Fresno, CA	251	
+San Francisco, CA	San Jose, CA	115	52030
+San Diego, CA	Philadelphia, PA	2673	
+San Diego, CA	Washington, DC	2640	
+San Diego, CA	Baltimore, MD	2638	
+San Diego, CA	Boston, MA	2606	
+San Diego, CA	New York, NY	2444	
+San Diego, CA	Charlotte, NC	2424	
+San Diego, CA	Detroit, MI	2399	
+San Diego, CA	Columbus, OH	2344	
+San Diego, CA	Louisville, KY	2231	
+San Diego, CA	Indianapolis, IN	2224	
+San Diego, CA	Nashville, TN	2178	
+San Diego, CA	Jacksonville, FL	2151	
+San Diego, CA	Memphis, TN	2029	
+San Diego, CA	Milwaukee, WI	1971	
+San Diego, CA	Chicago, IL	1947	
+San Diego, CA	Seattle, WA	1791	
+San Diego, CA	Oklahoma City, OK	1665	
+San Diego, CA	Portland, OR	1641	
+San Diego, CA	Houston, TX	1589	
+San Diego, CA	Dallas, TX	1508	
+San Diego, CA	Austin, TX	1500	
+San Diego, CA	Fort Worth, TX	1491	
+San Diego, CA	San Antonio, TX	1450	
+San Diego, CA	Denver, CO	1440	
+San Diego, CA	Albuquerque, NM	779	
+San Diego, CA	El Paso, TX	765	
+San Diego, CA	San Francisco, CA	461	
+San Diego, CA	San Jose, CA	434	
+San Diego, CA	Tucson, AZ	396	
+San Diego, CA	Phoenix, AZ	375	
+San Diego, CA	Las Vegas, NV	327	
+San Diego, CA	Fresno, CA	319	
+San Diego, CA	Los Angeles, CA	105	52935
+San Antonio, TX	Portland, OR	1302	
+San Antonio, TX	Seattle, WA	1133	
+San Antonio, TX	Detroit, MI	888	
+San Antonio, TX	Charlotte, NC	879	
+San Antonio, TX	San Francisco, CA	838	
+San Antonio, TX	Boston, MA	838	
+San Antonio, TX	Washington, DC	836	
+San Antonio, TX	Baltimore, MD	835	
+San Antonio, TX	Las Vegas, NV	828	
+San Antonio, TX	San Jose, CA	826	
+San Antonio, TX	Columbus, OH	820	
+San Antonio, TX	Fresno, CA	784	
+San Antonio, TX	Indianapolis, IN	761	
+San Antonio, TX	Denver, CO	742	
+San Antonio, TX	Louisville, KY	734	
+San Antonio, TX	Philadelphia, PA	710	
+San Antonio, TX	Los Angeles, CA	674	
+San Antonio, TX	Phoenix, AZ	668	
+San Antonio, TX	Nashville, TN	664	
+San Antonio, TX	San Diego, CA	649	
+San Antonio, TX	Albuquerque, NM	631	
+San Antonio, TX	Tucson, AZ	623	
+San Antonio, TX	New York, NY	609	
+San Antonio, TX	Memphis, TN	563	
+San Antonio, TX	Milwaukee, WI	563	
+San Antonio, TX	Jacksonville, FL	549	
+San Antonio, TX	Chicago, IL	540	
+San Antonio, TX	El Paso, TX	525	
+San Antonio, TX	Oklahoma City, OK	269	
+San Antonio, TX	Dallas, TX	180	
+San Antonio, TX	Fort Worth, TX	176	
+San Antonio, TX	Houston, TX	148	
+San Antonio, TX	Austin, TX	120	21905
+Portland, OR	Boston, MA	1182	
+Portland, OR	Jacksonville, FL	1147	
+Portland, OR	Philadelphia, PA	1112	
+Portland, OR	New York, NY	1110	
+Portland, OR	Baltimore, MD	1087	
+Portland, OR	Washington, DC	1084	
+Portland, OR	Charlotte, NC	1075	
+Portland, OR	Houston, TX	1059	
+Portland, OR	Austin, TX	1024	
+Portland, OR	San Antonio, TX	1023	
+Portland, OR	Columbus, OH	985	
+Portland, OR	Nashville, TN	971	
+Portland, OR	Detroit, MI	969	
+Portland, OR	Memphis, TN	962	
+Portland, OR	Louisville, KY	958	
+Portland, OR	Dallas, TX	952	
+Portland, OR	Fort Worth, TX	944	
+Portland, OR	Indianapolis, IN	937	
+Portland, OR	Chicago, IL	894	
+Portland, OR	Milwaukee, WI	879	
+Portland, OR	Oklahoma City, OK	840	
+Portland, OR	Tucson, AZ	834	
+Portland, OR	Phoenix, AZ	791	
+Portland, OR	Denver, CO	699	
+Portland, OR	San Diego, CA	639	
+Portland, OR	Fresno, CA	622	
+Portland, OR	Los Angeles, CA	593	
+Portland, OR	El Paso, TX	528	
+Portland, OR	San Jose, CA	508	
+Portland, OR	San Francisco, CA	493	
+Portland, OR	Albuquerque, NM	473	
+Portland, OR	Las Vegas, NV	335	
+Portland, OR	Seattle, WA	150	27859
+Phoenix, AZ	Seattle, WA	1436	
+Phoenix, AZ	Portland, OR	1384	
+Phoenix, AZ	Boston, MA	1267	
+Phoenix, AZ	New York, NY	1188	
+Phoenix, AZ	Detroit, MI	1184	
+Phoenix, AZ	Philadelphia, PA	1166	
+Phoenix, AZ	Baltimore, MD	1151	
+Phoenix, AZ	Milwaukee, WI	1145	
+Phoenix, AZ	Columbus, OH	1134	
+Phoenix, AZ	Washington, DC	1123	
+Phoenix, AZ	Chicago, IL	1104	
+Phoenix, AZ	Louisville, KY	1075	
+Phoenix, AZ	Indianapolis, IN	1071	
+Phoenix, AZ	Charlotte, NC	1069	
+Phoenix, AZ	Jacksonville, FL	1049	
+Phoenix, AZ	Nashville, TN	1044	
+Phoenix, AZ	Memphis, TN	952	
+Phoenix, AZ	Houston, TX	790	
+Phoenix, AZ	Dallas, TX	744	
+Phoenix, AZ	Fort Worth, TX	731	
+Phoenix, AZ	Austin, TX	719	
+Phoenix, AZ	San Antonio, TX	709	
+Phoenix, AZ	Oklahoma City, OK	691	
+Phoenix, AZ	Denver, CO	665	
+Phoenix, AZ	El Paso, TX	365	
+Phoenix, AZ	Albuquerque, NM	284	
+Phoenix, AZ	San Francisco, CA	277	
+Phoenix, AZ	Fresno, CA	276	
+Phoenix, AZ	San Jose, CA	266	
+Phoenix, AZ	Las Vegas, NV	250	
+Phoenix, AZ	Los Angeles, CA	139	
+Phoenix, AZ	San Diego, CA	139	
+Phoenix, AZ	Tucson, AZ	91	26678
+Philadelphia, PA	Portland, OR	3325	
+Philadelphia, PA	Seattle, WA	3220	
+Philadelphia, PA	El Paso, TX	2668	
+Philadelphia, PA	Las Vegas, NV	2594	
+Philadelphia, PA	San Antonio, TX	2574	
+Philadelphia, PA	Tucson, AZ	2573	
+Philadelphia, PA	Phoenix, AZ	2537	
+Philadelphia, PA	Albuquerque, NM	2521	
+Philadelphia, PA	Austin, TX	2499	
+Philadelphia, PA	Houston, TX	2379	
+Philadelphia, PA	Denver, CO	2365	
+Philadelphia, PA	San Francisco, CA	2245	
+Philadelphia, PA	San Jose, CA	2242	
+Philadelphia, PA	Fresno, CA	2203	
+Philadelphia, PA	San Diego, CA	2147	
+Philadelphia, PA	Los Angeles, CA	2133	
+Philadelphia, PA	Fort Worth, TX	1860	
+Philadelphia, PA	Oklahoma City, OK	1848	
+Philadelphia, PA	Dallas, TX	1834	
+Philadelphia, PA	Jacksonville, FL	1756	
+Philadelphia, PA	Memphis, TN	1391	
+Philadelphia, PA	Nashville, TN	1210	
+Philadelphia, PA	Charlotte, NC	885	
+Philadelphia, PA	Louisville, KY	838	
+Philadelphia, PA	Milwaukee, WI	820	
+Philadelphia, PA	Indianapolis, IN	814	
+Philadelphia, PA	Detroit, MI	768	
+Philadelphia, PA	Columbus, OH	585	
+Philadelphia, PA	Chicago, IL	530	
+Philadelphia, PA	Boston, MA	354	
+Philadelphia, PA	Washington, DC	167	
+Philadelphia, PA	Baltimore, MD	143	
+Philadelphia, PA	New York, NY	124	56152
+Oklahoma City, OK	Seattle, WA	1753	
+Oklahoma City, OK	Portland, OR	1722	
+Oklahoma City, OK	San Francisco, CA	1057	
+Oklahoma City, OK	San Jose, CA	1039	
+Oklahoma City, OK	Las Vegas, NV	1029	
+Oklahoma City, OK	Boston, MA	1010	
+Oklahoma City, OK	Fresno, CA	977	
+Oklahoma City, OK	San Diego, CA	866	
+Oklahoma City, OK	Los Angeles, CA	854	
+Oklahoma City, OK	Denver, CO	843	
+Oklahoma City, OK	Phoenix, AZ	830	
+Oklahoma City, OK	Philadelphia, PA	815	
+Oklahoma City, OK	Jacksonville, FL	798	
+Oklahoma City, OK	Washington, DC	798	
+Oklahoma City, OK	Baltimore, MD	797	
+Oklahoma City, OK	Tucson, AZ	767	
+Oklahoma City, OK	Charlotte, NC	759	
+Oklahoma City, OK	New York, NY	701	
+Oklahoma City, OK	Detroit, MI	683	
+Oklahoma City, OK	Milwaukee, WI	616	
+Oklahoma City, OK	Louisville, KY	605	
+Oklahoma City, OK	Columbus, OH	580	
+Oklahoma City, OK	Nashville, TN	559	
+Oklahoma City, OK	Indianapolis, IN	551	
+Oklahoma City, OK	El Paso, TX	514	
+Oklahoma City, OK	Chicago, IL	482	
+Oklahoma City, OK	San Antonio, TX	454	
+Oklahoma City, OK	Albuquerque, NM	446	
+Oklahoma City, OK	Houston, TX	389	
+Oklahoma City, OK	Memphis, TN	369	
+Oklahoma City, OK	Austin, TX	221	
+Oklahoma City, OK	Dallas, TX	215	
+Oklahoma City, OK	Fort Worth, TX	211	24310
+New York, NY	Portland, OR	3053	
+New York, NY	Seattle, WA	2984	
+New York, NY	El Paso, TX	2745	
+New York, NY	San Antonio, TX	2355	
+New York, NY	Austin, TX	2291	
+New York, NY	Houston, TX	2190	
+New York, NY	San Diego, CA	2151	
+New York, NY	Fort Worth, TX	2143	
+New York, NY	Los Angeles, CA	2137	
+New York, NY	Albuquerque, NM	2119	
+New York, NY	Dallas, TX	2114	
+New York, NY	Las Vegas, NV	2104	
+New York, NY	Tucson, AZ	2096	
+New York, NY	Phoenix, AZ	2073	
+New York, NY	San Francisco, CA	1988	
+New York, NY	San Jose, CA	1985	
+New York, NY	Denver, CO	1979	
+New York, NY	Fresno, CA	1951	
+New York, NY	Oklahoma City, OK	1682	
+New York, NY	Nashville, TN	1540	
+New York, NY	Indianapolis, IN	1225	
+New York, NY	Detroit, MI	1113	
+New York, NY	Memphis, TN	1049	
+New York, NY	Jacksonville, FL	1041	
+New York, NY	Columbus, OH	992	
+New York, NY	Milwaukee, WI	881	
+New York, NY	Chicago, IL	838	
+New York, NY	Louisville, KY	819	
+New York, NY	Charlotte, NC	778	
+New York, NY	Boston, MA	265	
+New York, NY	Washington, DC	220	
+New York, NY	Baltimore, MD	194	
+New York, NY	Philadelphia, PA	159	53254
+Nashville, TN	Seattle, WA	1457	
+Nashville, TN	Portland, OR	1457	
+Nashville, TN	San Francisco, CA	1316	
+Nashville, TN	San Jose, CA	1264	
+Nashville, TN	Fresno, CA	1212	
+Nashville, TN	Las Vegas, NV	1206	
+Nashville, TN	San Diego, CA	1176	
+Nashville, TN	Los Angeles, CA	1166	
+Nashville, TN	Phoenix, AZ	1160	
+Nashville, TN	Tucson, AZ	1133	
+Nashville, TN	El Paso, TX	978	
+Nashville, TN	Albuquerque, NM	936	
+Nashville, TN	Denver, CO	903	
+Nashville, TN	Boston, MA	820	
+Nashville, TN	San Antonio, TX	665	
+Nashville, TN	Austin, TX	633	
+Nashville, TN	Houston, TX	631	
+Nashville, TN	Philadelphia, PA	581	
+Nashville, TN	Jacksonville, FL	571	
+Nashville, TN	New York, NY	565	
+Nashville, TN	Fort Worth, TX	547	
+Nashville, TN	Dallas, TX	530	
+Nashville, TN	Baltimore, MD	528	
+Nashville, TN	Oklahoma City, OK	516	
+Nashville, TN	Washington, DC	509	
+Nashville, TN	Milwaukee, WI	494	
+Nashville, TN	Chicago, IL	423	
+Nashville, TN	Charlotte, NC	406	
+Nashville, TN	Detroit, MI	399	
+Nashville, TN	Columbus, OH	323	
+Nashville, TN	Indianapolis, IN	245	
+Nashville, TN	Memphis, TN	174	
+Nashville, TN	Louisville, KY	138	25062
+Milwaukee, WI	Phoenix, AZ	2332	
+Milwaukee, WI	Tucson, AZ	2299	
+Milwaukee, WI	Las Vegas, NV	2206	
+Milwaukee, WI	Portland, OR	2198	
+Milwaukee, WI	Seattle, WA	2115	
+Milwaukee, WI	San Francisco, CA	2074	
+Milwaukee, WI	San Jose, CA	2070	
+Milwaukee, WI	Fresno, CA	2051	
+Milwaukee, WI	San Diego, CA	2016	
+Milwaukee, WI	Los Angeles, CA	1973	
+Milwaukee, WI	El Paso, TX	1760	
+Milwaukee, WI	San Antonio, TX	1688	
+Milwaukee, WI	Austin, TX	1622	
+Milwaukee, WI	Houston, TX	1550	
+Milwaukee, WI	Albuquerque, NM	1550	
+Milwaukee, WI	Dallas, TX	1474	
+Milwaukee, WI	Fort Worth, TX	1474	
+Milwaukee, WI	Charlotte, NC	1326	
+Milwaukee, WI	Denver, CO	1275	
+Milwaukee, WI	Memphis, TN	1171	
+Milwaukee, WI	Nashville, TN	1094	
+Milwaukee, WI	Columbus, OH	962	
+Milwaukee, WI	Jacksonville, FL	918	
+Milwaukee, WI	New York, NY	881	
+Milwaukee, WI	Boston, MA	869	
+Milwaukee, WI	Philadelphia, PA	856	
+Milwaukee, WI	Louisville, KY	845	
+Milwaukee, WI	Baltimore, MD	821	
+Milwaukee, WI	Washington, DC	818	
+Milwaukee, WI	Oklahoma City, OK	718	
+Milwaukee, WI	Detroit, MI	336	
+Milwaukee, WI	Indianapolis, IN	293	
+Milwaukee, WI	Chicago, IL	99	45734
+Memphis, TN	Portland, OR	1588	
+Memphis, TN	Seattle, WA	1554	
+Memphis, TN	San Francisco, CA	1376	
+Memphis, TN	San Jose, CA	1359	
+Memphis, TN	Fresno, CA	1300	
+Memphis, TN	San Diego, CA	1259	
+Memphis, TN	Los Angeles, CA	1246	
+Memphis, TN	Las Vegas, NV	1220	
+Memphis, TN	Phoenix, AZ	1163	
+Memphis, TN	Tucson, AZ	1125	
+Memphis, TN	El Paso, TX	961	
+Memphis, TN	Denver, CO	959	
+Memphis, TN	Boston, MA	917	
+Memphis, TN	Albuquerque, NM	915	
+Memphis, TN	San Antonio, TX	900	
+Memphis, TN	New York, NY	875	
+Memphis, TN	Philadelphia, PA	835	
+Memphis, TN	Austin, TX	834	
+Memphis, TN	Baltimore, MD	785	
+Memphis, TN	Washington, DC	771	
+Memphis, TN	Houston, TX	769	
+Memphis, TN	Fort Worth, TX	688	
+Memphis, TN	Jacksonville, FL	682	
+Memphis, TN	Dallas, TX	657	
+Memphis, TN	Charlotte, NC	657	
+Memphis, TN	Oklahoma City, OK	620	
+Memphis, TN	Milwaukee, WI	590	
+Memphis, TN	Detroit, MI	554	
+Memphis, TN	Chicago, IL	534	
+Memphis, TN	Columbus, OH	469	
+Memphis, TN	Indianapolis, IN	436	
+Memphis, TN	Louisville, KY	352	
+Memphis, TN	Nashville, TN	259	29209
+Louisville, KY	Portland, OR	1437	
+Louisville, KY	Seattle, WA	1431	
+Louisville, KY	San Jose, CA	1307	
+Louisville, KY	San Francisco, CA	1299	
+Louisville, KY	Fresno, CA	1242	
+Louisville, KY	Las Vegas, NV	1230	
+Louisville, KY	Tucson, AZ	1211	
+Louisville, KY	San Diego, CA	1204	
+Louisville, KY	Los Angeles, CA	1195	
+Louisville, KY	Phoenix, AZ	1194	
+Louisville, KY	El Paso, TX	1061	
+Louisville, KY	Albuquerque, NM	974	
+Louisville, KY	Jacksonville, FL	937	
+Louisville, KY	Denver, CO	881	
+Louisville, KY	San Antonio, TX	822	
+Louisville, KY	Austin, TX	787	
+Louisville, KY	Houston, TX	786	
+Louisville, KY	Boston, MA	771	
+Louisville, KY	Fort Worth, TX	712	
+Louisville, KY	Dallas, TX	697	
+Louisville, KY	Oklahoma City, OK	674	
+Louisville, KY	Charlotte, NC	502	
+Louisville, KY	New York, NY	501	
+Louisville, KY	Philadelphia, PA	491	
+Louisville, KY	Baltimore, MD	461	
+Louisville, KY	Washington, DC	458	
+Louisville, KY	Milwaukee, WI	382	
+Louisville, KY	Detroit, MI	337	
+Louisville, KY	Chicago, IL	288	
+Louisville, KY	Memphis, TN	229	
+Louisville, KY	Columbus, OH	202	
+Louisville, KY	Nashville, TN	173	
+Louisville, KY	Indianapolis, IN	128	26004
+Los Angeles, CA	Philadelphia, PA	2654	
+Los Angeles, CA	Washington, DC	2622	
+Los Angeles, CA	Baltimore, MD	2620	
+Los Angeles, CA	Boston, MA	2554	
+Los Angeles, CA	Charlotte, NC	2452	
+Los Angeles, CA	New York, NY	2428	
+Los Angeles, CA	Detroit, MI	2351	
+Los Angeles, CA	Columbus, OH	2325	
+Los Angeles, CA	Louisville, KY	2213	
+Los Angeles, CA	Indianapolis, IN	2208	
+Los Angeles, CA	Jacksonville, FL	2200	
+Los Angeles, CA	Nashville, TN	2160	
+Los Angeles, CA	Memphis, TN	2010	
+Los Angeles, CA	Milwaukee, WI	1929	
+Los Angeles, CA	Chicago, IL	1903	
+Los Angeles, CA	Seattle, WA	1690	
+Los Angeles, CA	Houston, TX	1649	
+Los Angeles, CA	Oklahoma City, OK	1642	
+Los Angeles, CA	Dallas, TX	1577	
+Los Angeles, CA	Austin, TX	1556	
+Los Angeles, CA	Fort Worth, TX	1548	
+Los Angeles, CA	Portland, OR	1521	
+Los Angeles, CA	San Antonio, TX	1506	
+Los Angeles, CA	Denver, CO	1394	
+Los Angeles, CA	El Paso, TX	820	
+Los Angeles, CA	Albuquerque, NM	810	
+Los Angeles, CA	Tucson, AZ	568	
+Los Angeles, CA	San Francisco, CA	471	
+Los Angeles, CA	Phoenix, AZ	469	
+Los Angeles, CA	Las Vegas, NV	445	
+Los Angeles, CA	San Jose, CA	434	
+Los Angeles, CA	Fresno, CA	282	
+Los Angeles, CA	San Diego, CA	181	53192
+Las Vegas, NV	Boston, MA	1485	
+Las Vegas, NV	Washington, DC	1484	
+Las Vegas, NV	Baltimore, MD	1472	
+Las Vegas, NV	New York, NY	1459	
+Las Vegas, NV	Philadelphia, PA	1443	
+Las Vegas, NV	Detroit, MI	1429	
+Las Vegas, NV	Charlotte, NC	1380	
+Las Vegas, NV	Indianapolis, IN	1347	
+Las Vegas, NV	Milwaukee, WI	1323	
+Las Vegas, NV	Chicago, IL	1304	
+Las Vegas, NV	Columbus, OH	1295	
+Las Vegas, NV	Jacksonville, FL	1287	
+Las Vegas, NV	Louisville, KY	1230	
+Las Vegas, NV	Nashville, TN	1206	
+Las Vegas, NV	Memphis, TN	1109	
+Las Vegas, NV	Oklahoma City, OK	1002	
+Las Vegas, NV	Houston, TX	984	
+Las Vegas, NV	Seattle, WA	979	
+Las Vegas, NV	Austin, TX	968	
+Las Vegas, NV	San Antonio, TX	943	
+Las Vegas, NV	Portland, OR	923	
+Las Vegas, NV	Dallas, TX	867	
+Las Vegas, NV	Fort Worth, TX	855	
+Las Vegas, NV	Denver, CO	760	
+Las Vegas, NV	El Paso, TX	649	
+Las Vegas, NV	Albuquerque, NM	556	
+Las Vegas, NV	Tucson, AZ	314	
+Las Vegas, NV	Fresno, CA	277	
+Las Vegas, NV	Phoenix, AZ	245	
+Las Vegas, NV	San Francisco, CA	198	
+Las Vegas, NV	San Jose, CA	189	
+Las Vegas, NV	San Diego, CA	183	
+Las Vegas, NV	Los Angeles, CA	155	31300
+Jacksonville, FL	Portland, OR	2811	
+Jacksonville, FL	Seattle, WA	2781	
+Jacksonville, FL	Las Vegas, NV	2252	
+Jacksonville, FL	Denver, CO	2181	
+Jacksonville, FL	Phoenix, AZ	2141	
+Jacksonville, FL	Tucson, AZ	2067	
+Jacksonville, FL	Albuquerque, NM	1971	
+Jacksonville, FL	El Paso, TX	1879	
+Jacksonville, FL	San Francisco, CA	1518	
+Jacksonville, FL	San Jose, CA	1502	
+Jacksonville, FL	San Antonio, TX	1490	
+Jacksonville, FL	Austin, TX	1461	
+Jacksonville, FL	Fresno, CA	1453	
+Jacksonville, FL	Los Angeles, CA	978	
+Jacksonville, FL	San Diego, CA	957	
+Jacksonville, FL	Milwaukee, WI	918	
+Jacksonville, FL	Chicago, IL	804	
+Jacksonville, FL	Fort Worth, TX	692	
+Jacksonville, FL	Dallas, TX	680	
+Jacksonville, FL	Oklahoma City, OK	614	
+Jacksonville, FL	Columbus, OH	606	
+Jacksonville, FL	Memphis, TN	596	
+Jacksonville, FL	Nashville, TN	591	
+Jacksonville, FL	Indianapolis, IN	565	
+Jacksonville, FL	Louisville, KY	562	
+Jacksonville, FL	Houston, TX	560	
+Jacksonville, FL	Detroit, MI	544	
+Jacksonville, FL	Boston, MA	542	
+Jacksonville, FL	Philadelphia, PA	455	
+Jacksonville, FL	Baltimore, MD	418	
+Jacksonville, FL	New York, NY	400	
+Jacksonville, FL	Washington, DC	399	
+Jacksonville, FL	Charlotte, NC	321	37709
+Indianapolis, IN	Portland, OR	1687	
+Indianapolis, IN	Seattle, WA	1663	
+Indianapolis, IN	San Francisco, CA	1334	
+Indianapolis, IN	San Jose, CA	1331	
+Indianapolis, IN	El Paso, TX	1313	
+Indianapolis, IN	Las Vegas, NV	1304	
+Indianapolis, IN	Tucson, AZ	1287	
+Indianapolis, IN	Fresno, CA	1285	
+Indianapolis, IN	Phoenix, AZ	1269	
+Indianapolis, IN	San Diego, CA	1246	
+Indianapolis, IN	Los Angeles, CA	1236	
+Indianapolis, IN	Albuquerque, NM	1161	
+Indianapolis, IN	Denver, CO	1045	
+Indianapolis, IN	San Antonio, TX	1005	
+Indianapolis, IN	Jacksonville, FL	975	
+Indianapolis, IN	Austin, TX	964	
+Indianapolis, IN	Houston, TX	920	
+Indianapolis, IN	Fort Worth, TX	876	
+Indianapolis, IN	Dallas, TX	859	
+Indianapolis, IN	Boston, MA	779	
+Indianapolis, IN	Charlotte, NC	771	
+Indianapolis, IN	Oklahoma City, OK	735	
+Indianapolis, IN	Philadelphia, PA	498	
+Indianapolis, IN	New York, NY	490	
+Indianapolis, IN	Baltimore, MD	473	
+Indianapolis, IN	Washington, DC	470	
+Indianapolis, IN	Memphis, TN	402	
+Indianapolis, IN	Nashville, TN	326	
+Indianapolis, IN	Milwaukee, WI	304	
+Indianapolis, IN	Detroit, MI	268	
+Indianapolis, IN	Chicago, IL	220	
+Indianapolis, IN	Columbus, OH	210	
+Indianapolis, IN	Louisville, KY	127	28833
+Houston, TX	Portland, OR	1348	
+Houston, TX	Seattle, WA	1189	
+Houston, TX	San Francisco, CA	897	
+Houston, TX	San Jose, CA	885	
+Houston, TX	Las Vegas, NV	864	
+Houston, TX	Detroit, MI	849	
+Houston, TX	Fresno, CA	848	
+Houston, TX	Charlotte, NC	791	
+Houston, TX	Boston, MA	787	
+Houston, TX	Denver, CO	785	
+Houston, TX	Columbus, OH	783	
+Houston, TX	Washington, DC	768	
+Houston, TX	Baltimore, MD	766	
+Houston, TX	Phoenix, AZ	745	
+Houston, TX	Los Angeles, CA	738	
+Houston, TX	San Diego, CA	711	
+Houston, TX	Louisville, KY	701	
+Houston, TX	Tucson, AZ	701	
+Houston, TX	Albuquerque, NM	700	
+Houston, TX	Indianapolis, IN	698	
+Houston, TX	Philadelphia, PA	657	
+Houston, TX	El Paso, TX	644	
+Houston, TX	Nashville, TN	631	
+Houston, TX	New York, NY	566	
+Houston, TX	Milwaukee, WI	517	
+Houston, TX	Chicago, IL	493	
+Houston, TX	Jacksonville, FL	489	
+Houston, TX	Memphis, TN	480	
+Houston, TX	Oklahoma City, OK	259	
+Houston, TX	Dallas, TX	211	
+Houston, TX	Fort Worth, TX	184	
+Houston, TX	San Antonio, TX	174	
+Houston, TX	Austin, TX	154	22013
+Fresno, CA	Boston, MA	1773	
+Fresno, CA	New York, NY	1673	
+Fresno, CA	Seattle, WA	1658	
+Fresno, CA	Philadelphia, PA	1646	
+Fresno, CA	Charlotte, NC	1626	
+Fresno, CA	Washington, DC	1626	
+Fresno, CA	Baltimore, MD	1626	
+Fresno, CA	Houston, TX	1592	
+Fresno, CA	Detroit, MI	1560	
+Fresno, CA	Jacksonville, FL	1557	
+Fresno, CA	Portland, OR	1544	
+Fresno, CA	Austin, TX	1518	
+Fresno, CA	San Antonio, TX	1472	
+Fresno, CA	Indianapolis, IN	1469	
+Fresno, CA	Dallas, TX	1462	
+Fresno, CA	Columbus, OH	1448	
+Fresno, CA	Fort Worth, TX	1448	
+Fresno, CA	Louisville, KY	1380	
+Fresno, CA	Milwaukee, WI	1368	
+Fresno, CA	Chicago, IL	1350	
+Fresno, CA	Nashville, TN	1347	
+Fresno, CA	Denver, CO	1343	
+Fresno, CA	Memphis, TN	1259	
+Fresno, CA	Oklahoma City, OK	1046	
+Fresno, CA	El Paso, TX	948	
+Fresno, CA	Albuquerque, NM	890	
+Fresno, CA	Phoenix, AZ	728	
+Fresno, CA	Tucson, AZ	616	
+Fresno, CA	Las Vegas, NV	432	
+Fresno, CA	San Diego, CA	257	
+Fresno, CA	Los Angeles, CA	182	
+Fresno, CA	San Francisco, CA	159	
+Fresno, CA	San Jose, CA	141	40144
+Fort Worth, TX	Seattle, WA	1420	
+Fort Worth, TX	Portland, OR	1330	
+Fort Worth, TX	Las Vegas, NV	921	
+Fort Worth, TX	Boston, MA	811	
+Fort Worth, TX	San Francisco, CA	765	
+Fort Worth, TX	San Jose, CA	753	
+Fort Worth, TX	Jacksonville, FL	750	
+Fort Worth, TX	Washington, DC	750	
+Fort Worth, TX	Philadelphia, PA	749	
+Fort Worth, TX	Baltimore, MD	748	
+Fort Worth, TX	Phoenix, AZ	731	
+Fort Worth, TX	Fresno, CA	710	
+Fort Worth, TX	Los Angeles, CA	685	
+Fort Worth, TX	Tucson, AZ	684	
+Fort Worth, TX	San Diego, CA	660	
+Fort Worth, TX	Charlotte, NC	628	
+Fort Worth, TX	Denver, CO	605	
+Fort Worth, TX	New York, NY	591	
+Fort Worth, TX	Columbus, OH	581	
+Fort Worth, TX	Chicago, IL	548	
+Fort Worth, TX	Detroit, MI	538	
+Fort Worth, TX	Louisville, KY	509	
+Fort Worth, TX	Milwaukee, WI	457	
+Fort Worth, TX	Indianapolis, IN	451	
+Fort Worth, TX	Nashville, TN	438	
+Fort Worth, TX	Albuquerque, NM	407	
+Fort Worth, TX	El Paso, TX	398	
+Fort Worth, TX	Memphis, TN	344	
+Fort Worth, TX	Houston, TX	259	
+Fort Worth, TX	San Antonio, TX	209	
+Fort Worth, TX	Austin, TX	202	
+Fort Worth, TX	Oklahoma City, OK	167	
+Fort Worth, TX	Dallas, TX	91	19890
+El Paso, TX	Seattle, WA	1400	
+El Paso, TX	Portland, OR	1359	
+El Paso, TX	Boston, MA	1319	
+El Paso, TX	New York, NY	1236	
+El Paso, TX	Charlotte, NC	1225	
+El Paso, TX	Philadelphia, PA	1205	
+El Paso, TX	Detroit, MI	1193	
+El Paso, TX	Baltimore, MD	1167	
+El Paso, TX	Washington, DC	1155	
+El Paso, TX	Milwaukee, WI	1095	
+El Paso, TX	Indianapolis, IN	1058	
+El Paso, TX	Jacksonville, FL	1015	
+El Paso, TX	Chicago, IL	991	
+El Paso, TX	Denver, CO	935	
+El Paso, TX	Houston, TX	828	
+El Paso, TX	San Francisco, CA	823	
+El Paso, TX	San Jose, CA	806	
+El Paso, TX	Dallas, TX	802	
+El Paso, TX	Fort Worth, TX	775	
+El Paso, TX	Austin, TX	773	
+El Paso, TX	Columbus, OH	773	
+El Paso, TX	Louisville, KY	707	
+El Paso, TX	Las Vegas, NV	674	
+El Paso, TX	San Diego, CA	652	
+El Paso, TX	Nashville, TN	652	
+El Paso, TX	Los Angeles, CA	651	
+El Paso, TX	San Antonio, TX	619	
+El Paso, TX	Fresno, CA	613	
+El Paso, TX	Phoenix, AZ	602	
+El Paso, TX	Oklahoma City, OK	599	
+El Paso, TX	Memphis, TN	583	
+El Paso, TX	Tucson, AZ	479	
+El Paso, TX	Albuquerque, NM	269	29033
+Detroit, MI	Portland, OR	1744	
+Detroit, MI	Seattle, WA	1699	
+Detroit, MI	El Paso, TX	1480	
+Detroit, MI	Tucson, AZ	1421	
+Detroit, MI	Phoenix, AZ	1403	
+Detroit, MI	Las Vegas, NV	1384	
+Detroit, MI	San Francisco, CA	1379	
+Detroit, MI	San Jose, CA	1376	
+Detroit, MI	Fresno, CA	1365	
+Detroit, MI	San Diego, CA	1343	
+Detroit, MI	Albuquerque, NM	1340	
+Detroit, MI	Los Angeles, CA	1316	
+Detroit, MI	Denver, CO	1151	
+Detroit, MI	San Antonio, TX	1099	
+Detroit, MI	Jacksonville, FL	1089	
+Detroit, MI	Austin, TX	1061	
+Detroit, MI	Houston, TX	1054	
+Detroit, MI	Fort Worth, TX	981	
+Detroit, MI	Dallas, TX	963	
+Detroit, MI	Oklahoma City, OK	853	
+Detroit, MI	Charlotte, NC	698	
+Detroit, MI	Boston, MA	626	
+Detroit, MI	Memphis, TN	554	
+Detroit, MI	Nashville, TN	480	
+Detroit, MI	Philadelphia, PA	450	
+Detroit, MI	Baltimore, MD	421	
+Detroit, MI	Washington, DC	419	
+Detroit, MI	New York, NY	405	
+Detroit, MI	Louisville, KY	365	
+Detroit, MI	Milwaukee, WI	342	
+Detroit, MI	Chicago, IL	289	
+Detroit, MI	Indianapolis, IN	242	
+Detroit, MI	Columbus, OH	207	30999
+Denver, CO	Portland, OR	1143	
+Denver, CO	Boston, MA	1110	
+Denver, CO	New York, NY	1047	
+Denver, CO	Jacksonville, FL	1031	
+Denver, CO	Philadelphia, PA	1028	
+Denver, CO	Washington, DC	1019	
+Denver, CO	Baltimore, MD	1008	
+Denver, CO	Charlotte, NC	959	
+Denver, CO	Seattle, WA	914	
+Denver, CO	San Jose, CA	847	
+Denver, CO	San Francisco, CA	841	
+Denver, CO	Detroit, MI	831	
+Denver, CO	Columbus, OH	827	
+Denver, CO	Nashville, TN	783	
+Denver, CO	Fresno, CA	776	
+Denver, CO	Louisville, KY	763	
+Denver, CO	Memphis, TN	757	
+Denver, CO	Indianapolis, IN	755	
+Denver, CO	Milwaukee, WI	736	
+Denver, CO	Chicago, IL	719	
+Denver, CO	Houston, TX	701	
+Denver, CO	Austin, TX	664	
+Denver, CO	San Antonio, TX	663	
+Denver, CO	Tucson, AZ	596	
+Denver, CO	Dallas, TX	594	
+Denver, CO	Fort Worth, TX	581	
+Denver, CO	San Diego, CA	576	
+Denver, CO	Las Vegas, NV	575	
+Denver, CO	Phoenix, AZ	564	
+Denver, CO	Los Angeles, CA	558	
+Denver, CO	Oklahoma City, OK	514	
+Denver, CO	El Paso, TX	511	
+Denver, CO	Albuquerque, NM	274	25265
+Dallas, TX	Seattle, WA	1372	
+Dallas, TX	Portland, OR	1341	
+Dallas, TX	Las Vegas, NV	933	
+Dallas, TX	Boston, MA	802	
+Dallas, TX	San Francisco, CA	771	
+Dallas, TX	San Jose, CA	758	
+Dallas, TX	Phoenix, AZ	744	
+Dallas, TX	Philadelphia, PA	738	
+Dallas, TX	Washington, DC	738	
+Dallas, TX	Jacksonville, FL	737	
+Dallas, TX	Baltimore, MD	737	
+Dallas, TX	Fresno, CA	717	
+Dallas, TX	Los Angeles, CA	698	
+Dallas, TX	Tucson, AZ	697	
+Dallas, TX	San Diego, CA	667	
+Dallas, TX	Charlotte, NC	616	
+Dallas, TX	Denver, CO	594	
+Dallas, TX	New York, NY	583	
+Dallas, TX	Columbus, OH	567	
+Dallas, TX	Chicago, IL	551	
+Dallas, TX	Detroit, MI	528	
+Dallas, TX	Louisville, KY	498	
+Dallas, TX	Milwaukee, WI	457	
+Dallas, TX	Indianapolis, IN	443	
+Dallas, TX	Albuquerque, NM	437	
+Dallas, TX	El Paso, TX	432	
+Dallas, TX	Nashville, TN	424	
+Dallas, TX	Memphis, TN	328	
+Dallas, TX	San Antonio, TX	248	
+Dallas, TX	Houston, TX	211	
+Dallas, TX	Austin, TX	181	
+Dallas, TX	Oklahoma City, OK	152	
+Dallas, TX	Fort Worth, TX	109	19809
+Columbus, OH	Portland, OR	1774	
+Columbus, OH	Seattle, WA	1747	
+Columbus, OH	San Francisco, CA	1401	
+Columbus, OH	San Jose, CA	1399	
+Columbus, OH	El Paso, TX	1391	
+Columbus, OH	Las Vegas, NV	1381	
+Columbus, OH	Tucson, AZ	1362	
+Columbus, OH	Fresno, CA	1351	
+Columbus, OH	Phoenix, AZ	1345	
+Columbus, OH	San Diego, CA	1312	
+Columbus, OH	Los Angeles, CA	1303	
+Columbus, OH	Albuquerque, NM	1264	
+Columbus, OH	Denver, CO	1144	
+Columbus, OH	San Antonio, TX	1082	
+Columbus, OH	Austin, TX	1040	
+Columbus, OH	Houston, TX	1034	
+Columbus, OH	Jacksonville, FL	960	
+Columbus, OH	Fort Worth, TX	958	
+Columbus, OH	Dallas, TX	935	
+Columbus, OH	Oklahoma City, OK	842	
+Columbus, OH	Boston, MA	659	
+Columbus, OH	Charlotte, NC	629	
+Columbus, OH	Memphis, TN	547	
+Columbus, OH	Nashville, TN	465	
+Columbus, OH	Milwaukee, WI	451	
+Columbus, OH	New York, NY	406	
+Columbus, OH	Philadelphia, PA	387	
+Columbus, OH	Baltimore, MD	359	
+Columbus, OH	Washington, DC	355	
+Columbus, OH	Chicago, IL	310	
+Columbus, OH	Louisville, KY	241	
+Columbus, OH	Detroit, MI	234	
+Columbus, OH	Indianapolis, IN	213	30281
+Chicago, IL	Phoenix, AZ	2250	
+Chicago, IL	Tucson, AZ	2239	
+Chicago, IL	Portland, OR	2235	
+Chicago, IL	Las Vegas, NV	2173	
+Chicago, IL	Seattle, WA	2165	
+Chicago, IL	San Francisco, CA	2047	
+Chicago, IL	San Jose, CA	2039	
+Chicago, IL	Fresno, CA	2024	
+Chicago, IL	San Diego, CA	1989	
+Chicago, IL	Los Angeles, CA	1946	
+Chicago, IL	San Antonio, TX	1619	
+Chicago, IL	El Paso, TX	1594	
+Chicago, IL	Austin, TX	1553	
+Chicago, IL	Albuquerque, NM	1501	
+Chicago, IL	Houston, TX	1479	
+Chicago, IL	Dallas, TX	1405	
+Chicago, IL	Fort Worth, TX	1397	
+Chicago, IL	Denver, CO	1244	
+Chicago, IL	Charlotte, NC	1183	
+Chicago, IL	Memphis, TN	1060	
+Chicago, IL	Nashville, TN	973	
+Chicago, IL	Jacksonville, FL	861	
+Chicago, IL	Boston, MA	821	
+Chicago, IL	Columbus, OH	745	
+Chicago, IL	Philadelphia, PA	697	
+Chicago, IL	Louisville, KY	692	
+Chicago, IL	Baltimore, MD	684	
+Chicago, IL	Washington, DC	679	
+Chicago, IL	Oklahoma City, OK	675	
+Chicago, IL	New York, NY	444	
+Chicago, IL	Detroit, MI	415	
+Chicago, IL	Indianapolis, IN	232	
+Chicago, IL	Milwaukee, WI	111	43171
+Charlotte, NC	Seattle, WA	1572	
+Charlotte, NC	Portland, OR	1559	
+Charlotte, NC	San Francisco, CA	1490	
+Charlotte, NC	Los Angeles, CA	1422	
+Charlotte, NC	San Jose, CA	1422	
+Charlotte, NC	San Diego, CA	1405	
+Charlotte, NC	Fresno, CA	1372	
+Charlotte, NC	Las Vegas, NV	968	
+Charlotte, NC	Phoenix, AZ	936	
+Charlotte, NC	El Paso, TX	918	
+Charlotte, NC	Albuquerque, NM	912	
+Charlotte, NC	Tucson, AZ	899	
+Charlotte, NC	Denver, CO	886	
+Charlotte, NC	San Antonio, TX	659	
+Charlotte, NC	Austin, TX	651	
+Charlotte, NC	Oklahoma City, OK	613	
+Charlotte, NC	Fort Worth, TX	600	
+Charlotte, NC	Columbus, OH	598	
+Charlotte, NC	Houston, TX	593	
+Charlotte, NC	Dallas, TX	588	
+Charlotte, NC	Milwaukee, WI	572	
+Charlotte, NC	Boston, MA	505	
+Charlotte, NC	Chicago, IL	464	
+Charlotte, NC	Memphis, TN	410	
+Charlotte, NC	New York, NY	366	
+Charlotte, NC	Detroit, MI	366	
+Charlotte, NC	Indianapolis, IN	365	
+Charlotte, NC	Nashville, TN	359	
+Charlotte, NC	Louisville, KY	346	
+Charlotte, NC	Philadelphia, PA	333	
+Charlotte, NC	Jacksonville, FL	292	
+Charlotte, NC	Baltimore, MD	289	
+Charlotte, NC	Washington, DC	271	25001
+Boston, MA	San Francisco, CA	3289	
+Boston, MA	San Jose, CA	3284	
+Boston, MA	Fresno, CA	3251	
+Boston, MA	Portland, OR	2894	
+Boston, MA	Seattle, WA	2795	
+Boston, MA	Tucson, AZ	2615	
+Boston, MA	Las Vegas, NV	2599	
+Boston, MA	Phoenix, AZ	2588	
+Boston, MA	El Paso, TX	2443	
+Boston, MA	Denver, CO	2348	
+Boston, MA	Albuquerque, NM	2318	
+Boston, MA	San Antonio, TX	2272	
+Boston, MA	Fort Worth, TX	2229	
+Boston, MA	Austin, TX	2215	
+Boston, MA	Dallas, TX	2204	
+Boston, MA	Houston, TX	2132	
+Boston, MA	San Diego, CA	1739	
+Boston, MA	Los Angeles, CA	1704	
+Boston, MA	Oklahoma City, OK	1584	
+Boston, MA	Charlotte, NC	1515	
+Boston, MA	Jacksonville, FL	1327	
+Boston, MA	Memphis, TN	1310	
+Boston, MA	Nashville, TN	1172	
+Boston, MA	Louisville, KY	1102	
+Boston, MA	Indianapolis, IN	1020	
+Boston, MA	Milwaukee, WI	869	
+Boston, MA	Detroit, MI	849	
+Boston, MA	Chicago, IL	821	
+Boston, MA	Columbus, OH	565	
+Boston, MA	Washington, DC	332	
+Boston, MA	Baltimore, MD	301	
+Boston, MA	Philadelphia, PA	222	
+Boston, MA	New York, NY	184	58092
+Baltimore, MD	Portland, OR	2989	
+Baltimore, MD	Seattle, WA	2918	
+Baltimore, MD	Las Vegas, NV	2698	
+Baltimore, MD	Phoenix, AZ	2637	
+Baltimore, MD	Tucson, AZ	2621	
+Baltimore, MD	San Francisco, CA	2214	
+Baltimore, MD	San Jose, CA	2210	
+Baltimore, MD	Fresno, CA	2177	
+Baltimore, MD	El Paso, TX	2162	
+Baltimore, MD	San Diego, CA	2120	
+Baltimore, MD	Los Angeles, CA	2105	
+Baltimore, MD	Albuquerque, NM	2070	
+Baltimore, MD	Denver, CO	1937	
+Baltimore, MD	Jacksonville, FL	1293	
+Baltimore, MD	San Antonio, TX	1097	
+Baltimore, MD	Austin, TX	1060	
+Baltimore, MD	Memphis, TN	1047	
+Baltimore, MD	Houston, TX	1007	
+Baltimore, MD	Fort Worth, TX	983	
+Baltimore, MD	Dallas, TX	968	
+Baltimore, MD	Oklahoma City, OK	959	
+Baltimore, MD	Nashville, TN	881	
+Baltimore, MD	Louisville, KY	628	
+Baltimore, MD	Indianapolis, IN	618	
+Baltimore, MD	Charlotte, NC	614	
+Baltimore, MD	Detroit, MI	575	
+Baltimore, MD	Milwaukee, WI	551	
+Baltimore, MD	Columbus, OH	441	
+Baltimore, MD	Boston, MA	350	
+Baltimore, MD	Chicago, IL	328	
+Baltimore, MD	New York, NY	168	
+Baltimore, MD	Philadelphia, PA	130	
+Baltimore, MD	Washington, DC	79	44635
+Austin, TX	Portland, OR	1303	
+Austin, TX	Seattle, WA	1210	
+Austin, TX	Charlotte, NC	868	
+Austin, TX	San Francisco, CA	858	
+Austin, TX	Detroit, MI	856	
+Austin, TX	Las Vegas, NV	851	
+Austin, TX	San Jose, CA	847	
+Austin, TX	Boston, MA	817	
+Austin, TX	Washington, DC	809	
+Austin, TX	Fresno, CA	808	
+Austin, TX	Baltimore, MD	806	
+Austin, TX	Columbus, OH	788	
+Austin, TX	Denver, CO	743	
+Austin, TX	Indianapolis, IN	730	
+Austin, TX	Louisville, KY	703	
+Austin, TX	Los Angeles, CA	696	
+Austin, TX	Philadelphia, PA	689	
+Austin, TX	Phoenix, AZ	677	
+Austin, TX	San Diego, CA	671	
+Austin, TX	Nashville, TN	633	
+Austin, TX	Tucson, AZ	633	
+Austin, TX	Albuquerque, NM	627	
+Austin, TX	New York, NY	593	
+Austin, TX	Milwaukee, WI	541	
+Austin, TX	El Paso, TX	540	
+Austin, TX	Jacksonville, FL	539	
+Austin, TX	Memphis, TN	520	
+Austin, TX	Chicago, IL	518	
+Austin, TX	Oklahoma City, OK	235	
+Austin, TX	Dallas, TX	172	
+Austin, TX	Fort Worth, TX	168	
+Austin, TX	Houston, TX	131	
+Austin, TX	San Antonio, TX	104	21684
+Albuquerque, NM	Boston, MA	1252	
+Albuquerque, NM	Seattle, WA	1247	
+Albuquerque, NM	Portland, OR	1217	
+Albuquerque, NM	Charlotte, NC	1216	
+Albuquerque, NM	New York, NY	1164	
+Albuquerque, NM	Philadelphia, PA	1139	
+Albuquerque, NM	Washington, DC	1120	
+Albuquerque, NM	Baltimore, MD	1118	
+Albuquerque, NM	Detroit, MI	1079	
+Albuquerque, NM	Jacksonville, FL	1064	
+Albuquerque, NM	Houston, TX	974	
+Albuquerque, NM	Milwaukee, WI	965	
+Albuquerque, NM	Indianapolis, IN	935	
+Albuquerque, NM	Chicago, IL	934	
+Albuquerque, NM	Austin, TX	896	
+Albuquerque, NM	San Antonio, TX	879	
+Albuquerque, NM	Dallas, TX	813	
+Albuquerque, NM	Fort Worth, TX	793	
+Albuquerque, NM	San Francisco, CA	782	
+Albuquerque, NM	San Jose, CA	765	
+Albuquerque, NM	Columbus, OH	702	
+Albuquerque, NM	Denver, CO	685	
+Albuquerque, NM	San Diego, CA	657	
+Albuquerque, NM	Louisville, KY	649	
+Albuquerque, NM	Los Angeles, CA	643	
+Albuquerque, NM	Nashville, TN	624	
+Albuquerque, NM	Tucson, AZ	621	
+Albuquerque, NM	Phoenix, AZ	591	
+Albuquerque, NM	Las Vegas, NV	578	
+Albuquerque, NM	Fresno, CA	575	
+Albuquerque, NM	Memphis, TN	555	
+Albuquerque, NM	Oklahoma City, OK	465	
+Albuquerque, NM	El Paso, TX	260	27957
+
